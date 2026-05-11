@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa" rx="8"/>
+  <text x="20" y="30" fill="#333" font-size="14" font-weight="bold" font-family="Arial">配图：水印配置面板</text>
+  <rect x="20" y="45" width="360" height="240" fill="white" stroke="#ddd" stroke-width="1" rx="4"/>
+  <text x="35" y="70" fill="#666" font-size="11" font-family="Arial">处理操作：[加水印 ▼]</text>
+  <text x="35" y="95" fill="#666" font-size="11" font-family="Arial">水印类型：[文字水印 ▼]</text>
+  <text x="35" y="120" fill="#666" font-size="11" font-family="Arial">水印文字：[© 版权所有 2026]</text>
+  <text x="35" y="145" fill="#666" font-size="11" font-family="Arial">水印位置：[右下 ▼]</text>
+  <text x="35" y="170" fill="#666" font-size="11" font-family="Arial">透明度：50</text>
+  <rect x="35" y="190" width="80" height="25" rx="3" fill="#4a90d9"/>
+  <text x="75" y="206" text-anchor="middle" fill="white" font-size="11" font-family="Arial">运行</text>
+  <rect x="35" y="225" width="330" height="50" rx="3" fill="#e8f5e9"/>
+  <text x="45" y="243" fill="#2e7d32" font-size="10" font-family="Arial">处理后URL: https://images.weserv.nl/?url=...&amp;overlay-image=...</text>
+  <text x="45" y="260" fill="#2e7d32" font-size="10" font-family="Arial">水印已叠加到图片右下角</text>
+</svg>

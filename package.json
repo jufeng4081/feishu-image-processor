@@ -1,7 +1,7 @@
 {
   "name": "feishu-image-processor",
-  "version": "1.0.0",
-  "description": "批量图片处理 - 对图片URL进行压缩、缩放、格式转换、裁剪、加水印等操作",
+  "version": "2.0.0",
+  "description": "图片处理增强版 — 压缩/缩放/裁剪/格式转换/水印/操作链",
   "main": "index.js",
   "scripts": {
     "start": "block-basekit-cli start:field",
@@ -9,7 +9,7 @@
     "pack": "block-basekit-cli pack:field",
     "dev": "block-basekit-cli dev:field"
   },
-  "author": "AI Data Assistant Team",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@lark-opdev/block-basekit-cli": "^1.0.5",
